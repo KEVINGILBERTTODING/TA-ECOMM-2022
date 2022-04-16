@@ -1,4 +1,4 @@
-# TA-ECOMM-2022
+# TA-ECOMM-2022 :shopping: :shopping_cart:
 Repository untuk menampung project tugas akhir mata kuliah sistem E-commerce industri, yang diampu oleh Mr. Abu Salam, M.Kom
 
 <h3>Login Page</h3>
