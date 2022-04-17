@@ -4,6 +4,6 @@ Repository untuk menampung project tugas akhir mata kuliah sistem E-commerce ind
 ===========================================================================
 <h3>A22.2020.02832 | Kevin Gilbert Toding :technologist: </h3> 
 
-<h3>Login Page 🧸 :icecream: </h3> 
+<h2>Login Page 🧸 :icecream: </h2> 
 
 ![ss](https://user-images.githubusercontent.com/79959818/163660840-5102f127-b7ce-42d7-a43e-fe5addd6e705.png)
