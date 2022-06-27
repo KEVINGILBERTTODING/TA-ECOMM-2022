@@ -1,4 +1,6 @@
-1 . Jalankan Composer Install atau composer Update
-2 . Copy .env.example lalu setting sesuai database
-3 . jalankan php artisan migrate atau import data base via phpmyadmin ( file sql ada di projek )
-4 . jalankan php artisan db:seed (harus terkoneksi dengan internet soalnya mengambil data dari api raja ongkir)
+# TA-ECOMM-2022 :shopping: :shopping_cart:
+Repository untuk menampung project tugas akhir mata kuliah sistem E-commerce industri, yang diampu oleh Mr. Abu Salam, M.Kom
+
+===========================================================================
+<h3>A22.2020.02832 | Kevin Gilbert Toding :technologist: </h3> 
+
